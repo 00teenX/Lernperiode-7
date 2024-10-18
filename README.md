@@ -1,16 +1,17 @@
 # Lernperiode-7
 
-18.10 bis 20.9.2024
+18.10 bis 20.12.2024
 
 ## Grob-Planung
 
-1. Ich habe eine 5.5 im QV und ich bin sehr zufrieden mit meiner Arbeit bis jetzt. Ich denke für die Bewerbung reicht es und es ist sehr gut.
-2. Ich möchte mindestens eine 5 im ersten Semester haben.
+1. In dieser Lernperiode werde ich Hauptsächlich an den Modulen arbeiten, wenn es nötig ist. Ansonsten, wenn ich merke, dass ich auch anderes machen kann, dann werde ich das reinschreiben.
 
 ## 16.8.2024
 
-- [x] Modul 320 Auftrag 4202
-- [x] Modul 320 Auftrag 4203
-- [ ] Modul 320 Auftrag 4204
+- [ ] Modul 320 OBA (LCR Game)
+- [ ] Programmieren, dass das Würfeln automatisch passiert.
+- [ ] Und dann, dass es den Chip je nach Zahl, nach links, in die Mitte oder nach rechts weitergibt an den jeweiligen Spieler.
+
+Heute habe ich...
 
 
