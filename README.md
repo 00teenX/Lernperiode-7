@@ -12,6 +12,6 @@
 - [x] Programmieren, dass das Würfeln automatisch passiert.
 - [x] Und dann, dass es den Chip je nach Zahl, nach links, in die Mitte oder nach rechts weitergibt an den jeweiligen Spieler.
 
-Heute habe ich am LCR-Spiel für mein Modul 320 OBA gearbeitet. Ich habe das Würfeln automatisch gemacht. Dabei habe ich C# genutzt, um faire Ergebnisse zu garantieren. Ich habe auch die Regeln umgesetzt, wie die Chips je nach Zahl weitergegeben werden. Es war ein produktiver Tag, und ich komme gut voran mit dem Spiel.
+Heute habe ich am LCR-Spiel für mein Modul 320 OBA gearbeitet. Ich habe das Würfeln automatisch gemacht. Dabei habe ich C# genutzt, um faire Ergebnisse zu garantieren. Ich habe auch die Regeln umgesetzt, wie die Chips je nach Zahl weitergegeben werden. Es war ein produktiver Tag, und ich komme gut voran mit dem Spiel. {54 Wörter)
 
 
