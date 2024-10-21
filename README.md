@@ -14,4 +14,9 @@
 
 Heute habe ich am LCR-Spiel für mein Modul 320 OBA gearbeitet. Ich habe das Würfeln automatisch gemacht. Dabei habe ich C# genutzt, um faire Ergebnisse zu garantieren. Ich habe auch die Regeln umgesetzt, wie die Chips je nach Zahl weitergegeben werden. Es war ein produktiver Tag, und ich komme gut voran mit dem Spiel. {54 Wörter)
 
+## 25.10.2024
 
+- [ ] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
+- [ ] Modul 346 Aufträge
+
+Heute habe ich...
