@@ -18,7 +18,7 @@ Heute habe ich am LCR-Spiel für mein Modul 320 OBA gearbeitet. Ich habe das Wü
 
 - [ ] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
 - [ ] Modul 346 Aufträge
-- [ ] Auftrag 0705
 - [ ] Auftrag 0706
+- [ ] Auftrag 0707
 
 Heute habe ich...
