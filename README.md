@@ -16,9 +16,18 @@ Heute habe ich am LCR-Spiel für mein Modul 320 OBA gearbeitet. Ich habe das Wü
 
 ## 25.10.2024
 
+- [x] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
+- [x] Modul 346 Aufträge
+- [x] Auftrag 0706
+- [x] Auftrag 0707
+
+Heute habe ich meine Aufgaben für die Module 320 und 346 erledigt. Beim Modul 320 habe ich Themen wiederholt und mich auf die Prüfung vorbereitet. Bei den Aufträgen 0706 und 0707 konnte ich mit AWS arbeiten, weil es dort um Cloud im Modul 346 geht. Das hat mir geholfen, mehr über Cloud-Dienste zu lernen. Es war ein produktiver Tag, und ich bin zufrieden mit dem, was ich geschafft habe. {56 Wörter)
+
+## 01.11.2024
+
 - [ ] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
-- [ ] Modul 346 Aufträge
-- [ ] Auftrag 0706
-- [ ] Auftrag 0707
+- [ ] Modul 294 Aufträge
+- [ ] Auftrag 8460
+- [ ] Auftrag 8425
 
 Heute habe ich...
