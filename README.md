@@ -25,9 +25,18 @@ Heute habe ich meine Aufgaben für die Module 320 und 346 erledigt. Beim Modul 3
 
 ## 01.11.2024
 
-- [ ] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
-- [ ] Modul 294 Aufträge
-- [ ] Auftrag 8460
-- [ ] Auftrag 8425
+- [x] Modul 320 OBA (Repetieren, Vorbereitung für Prüfung)
+- [x] Modul 294 Aufträge
+- [x] Auftrag 8460
+- [x] Auftrag 8425
+
+Heute habe ich...
+
+## 08.11.2024
+
+- [ ] Modul 294 Vorbereitung für OBA Prüfung nächste Woche
+- [ ] Auftrag 8429
+- [ ] Auftrag 8426
+- [ ] Auftrag 8425 noch einmal repetieren, weil das vorkommt
 
 Heute habe ich...
