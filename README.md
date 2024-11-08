@@ -34,9 +34,15 @@ Heute habe ich an den Aufträgen 8460 und 8425 gearbeitet. In Auftrag 8460 ging 
 
 ## 08.11.2024
 
-- [ ] Modul 294 Vorbereitung für OBA Prüfung nächste Woche
-- [ ] Auftrag 8429
-- [ ] Auftrag 8426
-- [ ] Auftrag 8425 noch einmal repetieren, weil das vorkommt
+- [x] Modul 294 Vorbereitung für OBA Prüfung nächste Woche
+- [x] Auftrag 8429
+- [x] Auftrag 8426
+- [x] Auftrag 8425 noch einmal repetieren, weil das vorkommt
 
 Heute habe ich an den Aufträgen 8426 und 8429 gearbeitet. In Auftrag 8426 ging es um die Fetch API und das Abrufen von JSON-Daten mit einer GET-Anfrage. Ich habe gelernt, wie man Daten dynamisch von einer API lädt und sie im Browser anzeigt. Bei Auftrag 8429 habe ich CRUD-Operationen mit einer Web-API implementiert, um Daten zu erstellen, zu lesen, zu aktualisieren und zu löschen. Zusätzlich habe ich den Auftrag 8425 zu HTTP repetiert, um gut vorbereitet für die kommende Prüfung zu sein. Insgesamt fühle ich mich sicherer im Umgang mit diesen Themen und hoffe auf eine erfolgreiche Prüfung. {87 Wörter}
+
+## 15.11.2024
+
+- [ ] Modul 346 Aufträge
+
+Heute habe ich...
