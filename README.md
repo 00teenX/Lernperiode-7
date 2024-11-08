@@ -44,5 +44,7 @@ Heute habe ich an den Aufträgen 8426 und 8429 gearbeitet. In Auftrag 8426 ging 
 ## 15.11.2024
 
 - [ ] Modul 346 Aufträge
+- [ ] Auftrag 0703
+- [ ] Auftrag 0709
 
 Heute habe ich...
