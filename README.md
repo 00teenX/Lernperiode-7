@@ -30,7 +30,7 @@ Heute habe ich meine Aufgaben für die Module 320 und 346 erledigt. Beim Modul 3
 - [x] Auftrag 8460
 - [x] Auftrag 8425
 
-Heute habe ich...
+Heute habe ich an den Aufträgen 8460 und 8425 gearbeitet. In Auftrag 8460 ging es um Git-Versionierung. Ich habe gelernt, wie man ein Repository erstellt, Änderungen verfolgt und Projekte sicher in GitLab speichert. Bei Auftrag 8425 habe ich mich mit dem HTTP-Protokoll und den Statuscodes befasst, was mir ein besseres Verständnis für die Kommunikation zwischen Client und Server vermittelt hat. Ich habe mich auch für das Modul 320 vorbereitet, damit ich die Prüfung erfolgreich schaffe. Ich habe UML Diagramme und Unit Testing repetiert um ein besseres Verständnis dafür zu bekommen und geübt zu sein. Insgesamt war ich zufrieden mit meiner Arbeit und bin optimistisch für das was kommt. {112 Wörter}
 
 ## 08.11.2024
 
@@ -39,4 +39,4 @@ Heute habe ich...
 - [ ] Auftrag 8426
 - [ ] Auftrag 8425 noch einmal repetieren, weil das vorkommt
 
-Heute habe ich an den Aufträgen 8460 und 8425 gearbeitet. In Auftrag 8460 ging es um Git-Versionierung. Ich habe gelernt, wie man ein Repository erstellt, Änderungen verfolgt und Projekte sicher in GitLab speichert. Bei Auftrag 8425 habe ich mich mit dem HTTP-Protokoll und den Statuscodes befasst, was mir ein besseres Verständnis für die Kommunikation zwischen Client und Server vermittelt hat. Diese Aufgaben waren hilfreich, um meine Grundlagen für die Prüfung zu stärken. {73 Wörter}
+Heute habe ich...
