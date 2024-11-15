@@ -43,8 +43,17 @@ Heute habe ich an den Aufträgen 8426 und 8429 gearbeitet. In Auftrag 8426 ging 
 
 ## 15.11.2024
 
-- [ ] Modul 346 Aufträge
-- [ ] Auftrag 0703
-- [ ] Auftrag 0709
+- [x] Modul 346 Aufträge
+- [x] Auftrag 0703
+- [x] Auftrag 0709
+
+Heute habe ich an den Aufträgen 0703 und 0709 gearbeitet. Beim Auftrag 0703 habe ich die Betriebs- und Bereitstellungsmodelle im Cloud-Computing analysiert und eine Empfehlung für Clothes4All erstellt. Besonders hilfreich war die Visualisierung der Speichermöglichkeiten. Im Auftrag 0709 habe ich die 5-7 R’s der Cloud-Migration untersucht und passende Strategien für die Migration der Services von Clothes4All entwickelt. Beide Aufträge haben mein Verständnis für Cloud-Technologien deutlich vertieft. {85 Wörter}
+
+## 22.11.2024
+
+- [ ] Modul 294 Aufträge
+- [ ] Auftrag 8430
+- [ ] Auftrag 8431
+- [ ] Vorbereitung für OBA am 28.11.2024
 
 Heute habe ich...
