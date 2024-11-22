@@ -51,9 +51,17 @@ Heute habe ich an den Aufträgen 0703 und 0709 gearbeitet. Beim Auftrag 0703 hab
 
 ## 22.11.2024
 
-- [ ] Modul 294 Aufträge
-- [ ] Auftrag 8430
-- [ ] Auftrag 8431
-- [ ] Vorbereitung für OBA am 28.11.2024
+- [x] Modul 294 Aufträge
+- [x] Auftrag 8430
+- [x] Auftrag 8431
+- [x] Auftrag 8439
+- [x] Vorbereitung für OBA am 28.11.2024
+
+Heute habe ich an den Aufträgen 8430, 8431 und 8439 gearbeitet und mich auf die OBA am 28.11.2024 vorbereitet. In Auftrag 8430 ging es um Client-Side Routing und die Unterschiede zwischen Single- und Multi-Page Applications. Bei 8431 habe ich einen Prototypen erstellt, der Seiten dynamisch navigiert. Das schwerste war Auftrag 8439, wo ich CRUD-Operationen mit einem JSON-Server implementieren musste. Wegen API-Konfigurationsproblemen habe ich am Anfang Schwierigkeiten gehabt, die ich aber nach langem hin und her mit ChatGPT lösen konnte. Insgesamt habe ich viel über APIs und Routing gelernt und bin zufrieden. {90 Wörter}
+
+## 29.11.2024
+
+- [ ] Modul 294 LB Projekt
+- [ ] Arbeitspakete folgen noch, da ich noch nicht weiss wie ich vorgehen werde
 
 Heute habe ich...
