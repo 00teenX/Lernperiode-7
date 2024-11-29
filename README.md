@@ -61,7 +61,18 @@ Heute habe ich an den Aufträgen 8430, 8431 und 8439 gearbeitet und mich auf die
 
 ## 29.11.2024
 
-- [ ] Modul 294 LB Projekt
-- [ ] Arbeitspakete folgen noch, da ich noch nicht weiss wie ich vorgehen werde
+- [x] Modul 294 LB Projekt
+- [x] Grundlayout für Webseite (Header, Footer usw.)
+- [x] Login implementieren. Dass man sich nur mit einem Passwort rein kommt.
+- [x] Api einfügen
+- [x] CRUD Operationen für Kommentare einfügen und löschen
+
+Heute habe ich das Grundlayout der Webseite fertiggestellt, inklusive Header, Footer und Navigation. Ich habe auch die Login-Funktion implementiert. Danach habe ich die REST-API eingebunden, sodass Künstlerdaten aus der db.json geladen werden. Zuletzt habe ich die CRUD-Funktion für das Hinzufügen und Löschen von Kommentaren erstellt. Das grösste Problem war das unerwartete Neuladen der Seite, das ich durch Hilfe von ChatGPT lösen konnte. Ich bin zufrieden, weil ich viel über REST-APIs und Event-Handling gelernt habe. {81 Wörter}
+
+## 29.11.2024
+
+- [ ] Modul 450 Aufträge
+- [ ] Kommt drauf an wie weit ich am Mittwoch komme. Ich ändere die Arbeitspakete noch.
 
 Heute habe ich...
+
