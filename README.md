@@ -72,7 +72,8 @@ Heute habe ich das Grundlayout der Webseite fertiggestellt, inklusive Header, Fo
 ## 29.11.2024
 
 - [ ] Modul 450 Aufträge
-- [ ] Kommt drauf an wie weit ich am Mittwoch komme. Ich ändere die Arbeitspakete noch.
+- [ ] Auftrag 6970
+- [ ] Auftrag 6971
 
 Heute habe ich...
 
