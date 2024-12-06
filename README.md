@@ -69,11 +69,17 @@ Heute habe ich an den Aufträgen 8430, 8431 und 8439 gearbeitet und mich auf die
 
 Heute habe ich das Grundlayout der Webseite fertiggestellt, inklusive Header, Footer und Navigation. Ich habe auch die Login-Funktion implementiert. Danach habe ich die REST-API eingebunden, sodass Künstlerdaten aus der db.json geladen werden. Zuletzt habe ich die CRUD-Funktion für das Hinzufügen und Löschen von Kommentaren erstellt. Das grösste Problem war das unerwartete Neuladen der Seite, das ich durch Hilfe von ChatGPT lösen konnte. Ich bin zufrieden, weil ich viel über REST-APIs und Event-Handling gelernt habe. {81 Wörter}
 
-## 29.11.2024
+## 06.12.2024
 
-- [ ] Modul 450 Aufträge
-- [ ] Auftrag 6970
-- [ ] Auftrag 6971
+- [x] Modul 450 Aufträge
+- [x] Auftrag 6970
+- [x] Auftrag 6971
+
+Heute habe ich an den Aufträgen 6970 (Debugging) und 6971 (Test Driven Development) gearbeitet. Beim Debugging habe ich zwei Fehler in Minesweeper gefunden: Die Minenanzahl war manchmal falsch, und die Gewinnanzeige hat nicht immer funktioniert. Mit Breakpoints konnte ich den Code Schritt für Schritt prüfen. Beim zweiten Auftrag habe ich den TDD-Ansatz genutzt. Ich habe zuerst Tests geschrieben und dann die Logik für verschiedene Uhren implementiert. Es hat Spaß gemacht, schrittweise zu arbeiten und zu sehen, wie die Tests immer grüner wurden. Ich bin zufrieden, weil ich viel gelernt habe. {91 Wörter}
+
+## 13.12.2024
+
+- [ ] Je nach dem was im Modul gemacht werden muss. Die Arbeitspakete folgen noch.
 
 Heute habe ich...
 
