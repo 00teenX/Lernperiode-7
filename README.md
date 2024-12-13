@@ -79,7 +79,18 @@ Heute habe ich an den Aufträgen 6970 (Debugging) und 6971 (Test Driven Developm
 
 ## 13.12.2024
 
-- [ ] Je nach dem was im Modul gemacht werden muss. Die Arbeitspakete folgen noch.
+- [x] Modul 295
+- [x] Auftrag 6402
+- [x] Auftrag 6403
+- [x] Auftrag 6409
+
+Heute habe ich an den Aufträgen 6402, 6403 und 6409 gearbeitet. Beim ASP.NET-Tutorial (6402) habe ich ein Backend mit REST-API erstellt und die Schritte in einem GitLab-Repository dokumentiert. Für Auftrag 6403 habe ich die Datenbankanbindung des Projekts konfiguriert und die Daten erfolgreich in einer SQL-Datenbank gespeichert. Zum Abschluss habe ich in Auftrag 6409 die wichtigsten Git-Befehle geübt und ein bestehendes Projekt in ein Repository gepusht. Es war ein produktiver Tag, und ich habe viel über Backend-Programmierung, Datenbanken und Versionskontrolle gelernt. {120 Wörter}
+
+## 13.12.2024
+
+- [ ] Modul 295
+- [ ] Auftrag 6410
+- [ ] Auftrag 6406
 
 Heute habe ich...
 
