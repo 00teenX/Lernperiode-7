@@ -86,11 +86,11 @@ Heute habe ich an den Aufträgen 6970 (Debugging) und 6971 (Test Driven Developm
 
 Heute habe ich an den Aufträgen 6402, 6403 und 6409 gearbeitet. Beim ASP.NET-Tutorial (6402) habe ich ein Backend mit REST-API erstellt und die Schritte in einem GitLab-Repository dokumentiert. Für Auftrag 6403 habe ich die Datenbankanbindung des Projekts konfiguriert und die Daten erfolgreich in einer SQL-Datenbank gespeichert. Zum Abschluss habe ich in Auftrag 6409 die wichtigsten Git-Befehle geübt und ein bestehendes Projekt in ein Repository gepusht. Es war ein produktiver Tag, und ich habe viel über Backend-Programmierung, Datenbanken und Versionskontrolle gelernt. {120 Wörter}
 
-## 13.12.2024
+## 20.12.2024
 
-- [ ] Modul 295
-- [ ] Auftrag 6410
-- [ ] Auftrag 6406
+- [x] Modul 295
+- [x] Auftrag 6410
+- [x] Auftrag 6406
 
-Heute habe ich...
+Heute habe ich an den Aufträgen 6410 und 6406 gearbeitet. Für Auftrag 6410 habe ich eine .gitignore-Datei erstellt und getestet, um sicherzustellen, dass unnötige Dateien wie .tmp und der Ordner temp erfolgreich von GIT ausgeschlossen werden. Bei Auftrag 6406 habe ich CORS-Richtlinien für eine API konfiguriert, einschliesslich der Richtlinien AllowBbbOrigin und AllowLocalhostOrigin. Danach habe ich die Funktionalität mit Postman überprüft, um sicherzustellen, dass der Access-Control-Allow-Origin-Header korrekt gesetzt wurde. Es war ein lehrreicher Tag, an dem ich die Versionskontrolle und Sicherheitskonzepte vertiefen konnte. {96 Wörter}
 
